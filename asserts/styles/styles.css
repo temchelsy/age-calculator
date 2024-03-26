@@ -20,7 +20,6 @@ header {
 }
 
 header h1 {
-  background-color:#fff;
   color: green;
   font-size: xx-large;
   padding: 1%;
@@ -45,7 +44,7 @@ input {
   text-align: center;
 }
 
-#inputDob {
+#input-Dob {
   margin: 2%;
 }
 
@@ -54,7 +53,7 @@ p {
   margin: 5%;
 }
 
-#currentAge {
+#current-Age {
   min-width: 30%;
   box-shadow: 0 4px 8px 0 gray;
   transition: 0.3s;
